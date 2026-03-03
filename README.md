@@ -1,2 +1,2 @@
-# We-re-
-This repository is for practicing the GitHub Flow."
+# whats up
+this is the first line of code
