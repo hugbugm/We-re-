@@ -1,2 +1,2 @@
-# whats up
-this is the first line of code
+# hello world
+67
